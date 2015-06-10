@@ -1,6 +1,6 @@
 # Queue
 
-You have the `List` data structure at your disposal.
+You have the `Vector` data structure at your disposal.
 Using only it implement the `Queue` data structure in Java, Python or C++.
 
 The type of the data in the `Queue` is of your choice.
